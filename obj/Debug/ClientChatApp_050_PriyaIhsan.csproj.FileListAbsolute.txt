@@ -1,0 +1,6 @@
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\bin\Debug\ClientChatApp_050_PriyaIhsan.exe.config
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\bin\Debug\ClientChatApp_050_PriyaIhsan.exe
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\bin\Debug\ClientChatApp_050_PriyaIhsan.pdb
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\obj\Debug\ClientChatApp_050_PriyaIhsan.csproj.CoreCompileInputs.cache
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\obj\Debug\ClientChatApp_050_PriyaIhsan.exe
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\ClientChatApp_050_PriyaIhsan\ClientChatApp_050_PriyaIhsan\obj\Debug\ClientChatApp_050_PriyaIhsan.pdb
